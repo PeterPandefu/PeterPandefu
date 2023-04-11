@@ -12,4 +12,4 @@
 
 ![image.png](https://niuery.com/static/img/af265f32ce874fc806135fa9cd2778b3.image.png)
 
-[![softlgl's github stats](https://github-readme-stats.vercel.app/api?username=softlgl)](https://github.com/softlgl/github-readme-stats)
+[![softlgl's github stats](https://github-readme-stats.vercel.app/api?username=PeterPandefu)](https://github.com/PeterPandefu/github-readme-stats)
