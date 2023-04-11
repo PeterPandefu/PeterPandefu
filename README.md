@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to visit! 👋
 
-<!--
-**PeterPandefu/PeterPandefu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Author**： **Peter.Pan**
 
-Here are some ideas to get you started:
+**Blog**： **http://niuery.com/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Email**： **defu_pan@163.com**
+
+**About**：**A rookie Programmer, trying to become experienced one~** 
+
+**WeChat official account**：**Niuery Diary**
+
+![image.png](https://niuery.com/static/img/af265f32ce874fc806135fa9cd2778b3.image.png)
+
+[![softlgl's github stats](https://github-readme-stats.vercel.app/api?username=softlgl)](https://github.com/softlgl/github-readme-stats)
